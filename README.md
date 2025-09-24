@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello Bitch*s, I'm Leonardo
+
+**🯰🯰🯱🯲🯳🯴🯵🯶🯷🯸🯹
 
 <!--
 **dasleox/dasleox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m currently working on the **Galaktic Engine**, a lightweight and modular game engine written in C++.  <br>Alongside it, I’m developing a **retro-style football management game** powered by the engine.</p>
+<p align="left">I’m currently working on the Galaktic Engine, a lightweight and modular game engine written in C++.  <br>Alongside it, I’m developing a retro-style football management game powered by the engine.</p>
 
 ###
 
